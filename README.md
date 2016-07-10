@@ -17,7 +17,7 @@ Options:
 
   `--dict DICT_PATH` - where `DICT_PATH` is the location of a dictionary. By default `./dict_full.txt` will be used.
   
-  `--noquery` - specifies to not output query strings. Would be helpful if piping output to the program.
+  `--noquery` - specifies to not output query strings. Would be helpful if piping input to the program.
   
   `--threads NUM_THREADS` - where `NUM_THREADS` is the number of threads to utilize (capped at the machine's capability)
   
@@ -72,3 +72,5 @@ The same interaction without the shortcut method:
   t s m e d 
   m i i p b
   ```
+
+If you find that there are incorrect solutions, too many solutions, or too few solutions, try using a different dictionary. There are several included.
