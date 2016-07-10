@@ -63,7 +63,7 @@ The same interaction without the shortcut method:
   opts  bedroom  vampire  vitamin
   ```
   
-  Both of these solve a 5x5 grid with 4 words, with lenghts 4,7,7,7 (in the order presented) with the grid containing characters in the following fashion:
+  Both of these solve a 5x5 grid with 4 words, with lengths 4,7,7,7 (in the order presented) with the grid containing characters in the following fashion:
   
   ```
   v a n m o 
